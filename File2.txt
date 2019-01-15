@@ -1,1 +1,2 @@
 This is File 2.
+Changes made to File 2.
